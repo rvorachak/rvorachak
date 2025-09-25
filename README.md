@@ -1,4 +1,4 @@
-# Ryan Vorachak 👋
+# Hi, I'm Ryan Vorachak 👋
 
 <div align="center">
     <picture>

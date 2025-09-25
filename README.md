@@ -12,7 +12,7 @@
 
 I'm an aspiring Computer Engineering graduate from the University of New Hampshire. I am passionate about the applications of software to both cloud-based systems and physical hardware. I strive to expand my skills with intuitive and meaningful UI/UX construction in mind.
 
-Please check out my [website](rvorachak.github.io) and other repositories seen below!
+Please check out my [website](https://rvorachak.github.io) and other repositories seen below!
 
 ## Connect With Me
 
@@ -26,7 +26,7 @@ Feel free to reach out on LinkedIn or at my [email](mailto:rpv1003@usnh.edu)!
             <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
         </picture>
     </a>
-  <a href="rvorachak.github.io">
+  <a href="https://rvorachak.github.io">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=website&logoColor=black">
             <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=website&logoColor=white">
